@@ -1,1 +1,3 @@
-# ChatGPT_Reviews_Analysis
+# Reviews_Analysis_on_ChatGPT
+
+This project focuses on analyzing user reviews of ChatGPT to gain a deeper understanding of public sentiment and user experiences. Using Python along with libraries such as pandas, NLTK, and matplotlib, the project involves data cleaning, preprocessing, and sentiment classification of large-scale review data. It identifies positive, negative, and neutral feedback while uncovering common themes and patterns across user opinions. The results are visualized through informative charts and graphs, providing insights into user satisfaction levels, areas of improvement, and overall perception of ChatGPT. This analysis helps demonstrate the power of natural language processing (NLP) and sentiment analysis techniques in deriving meaningful conclusions from textual data.
